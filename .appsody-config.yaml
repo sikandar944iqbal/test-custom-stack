@@ -1,3 +1,3 @@
 id: "20210111192756.93936334"
 project-name: test-my-stack
-stack: image-registry.openshift-image-registry.svc:5000/kabanero-noauth/jazzcash-custom-stack:0.4
+stack: default-route-openshift-image-registry.apps.tjcocp.jazz.com.pk/kabanero-noauth/jazzcash-custom-stack
